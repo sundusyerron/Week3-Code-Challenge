@@ -58,3 +58,10 @@ As a user, I can:
     terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.", "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg" }`
 
     See a menu of all movies on the left side of the page in the ul#films element when the page loads. (optional: you can style each film in the list by adding the classes film item to each li element.) There is a placeholder li in the ul#films element that is hardcoded in the HTML — feel free to remove that element.
+
+## Auther
+project contributed by;
+[sundus](https://github.com/sundusyerron/Week3-code-challenge)
+
+# License
+'ISC'
